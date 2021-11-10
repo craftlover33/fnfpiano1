@@ -1,7 +1,7 @@
 {
    "isRedirect": false,
    "message": "Hai there is new update for this app please download!",
-   "redirectUrl": "-",
+   "redirectUrl": "https://play.google.com/store/apps/details?id=com.mobile.legends",
    
    "moreApp": [
 		{
@@ -10,12 +10,14 @@
 			"URLPlaystore": "",
 			"URLImage": ""
 		},
+		{
 		
 			"Name": "",
 			"Description": "",
 			"URLPlaystore": "",
 			"URLImage": ""
 		},
+		{
 		
 			"Name": "",
 			"Description": "",
@@ -28,12 +30,14 @@
 			"URLPlaystore": "",
 			"URLImage": ""
 		},
+		{
 		
 			"Name": "",
 			"Description": "",
 			"URLPlaystore": "",
 			"URLImage": ""
 		},
+		{
 		
 			"Name": "",
 			"Description": "",
